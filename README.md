@@ -1,5 +1,7 @@
 ### Olá, Bem vindo ao meu perfil do GitHub👋
 
+![Snake animation](https://github.com/ggg21on/ggg21on/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://ggg21on">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=gotham"/>
