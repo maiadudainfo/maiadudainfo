@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
-###
+##
 
 ### Ferramentas e Tecnologias 🛠
 <div>
@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>                         
 </div>
   
-###
+##
 
 ### Estou Aprendendo 🚀
 <div>
