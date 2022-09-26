@@ -4,10 +4,7 @@
 
 <div>
 <a href="https://ggg21on">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=great-gatsby"/>
-  
-<div></div> 
-  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=great-gatsby"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 </div>
 
