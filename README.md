@@ -1,6 +1,6 @@
 ### Olá, Bem vindo ao meu perfil do GitHub!👋
 
-![Snake animation](https://github.com/ggg21on/ggg21on/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ggg21on&theme=dark)](https://git.io/streak-stats)
 
 <div>
 <a href="https://ggg21on">
