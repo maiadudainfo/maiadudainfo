@@ -1,4 +1,4 @@
-### Olá, Bem vindo ao meu perfil do GitHub!👋
+### Hello, Welcome to my GitHub profile!👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ggg21on&theme=midnight-purple)](https://git.io/streak-stats)
 
