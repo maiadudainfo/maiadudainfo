@@ -1,11 +1,11 @@
 ### Hello, Welcome to my GitHub profile!👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ggg21on&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ggg21on&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 <div>
 <a href="https://ggg21on">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=chartreuse-dark"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=vision-friendly-dark"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ##
