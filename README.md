@@ -1,11 +1,11 @@
 ### Hello, Welcome to my GitHub profile!👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maiadudainfo&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maiadudainfo&theme=dracula)](https://git.io/streak-stats)
 
 <div>
 <a href="https://maiadudainfo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiadudainfo&layout=compact&langs_count=7&theme=highcontrast"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiadudainfo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiadudainfo&layout=compact&langs_count=7&theme=dracula"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiadudainfo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ##
