@@ -1,6 +1,6 @@
 ### Hello, Welcome to my GitHub profile!👋
 
-![snake gif](https://github.com/maiadudainfo/maiadudainfoblob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/maiadudainfo/maiadudainfo/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://maiadudainfo">
